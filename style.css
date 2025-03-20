@@ -1,4 +1,4 @@
-/* 🌈 Background Gradient */
+/*  Background Gradient */
 body {
     display: flex;
     justify-content: center;
@@ -8,7 +8,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* 🎨 Calculator Box */
+/*  Calculator Box */
 .calculator {
     background: white;
     padding: 20px;
@@ -18,7 +18,7 @@ body {
     width: 300px;
 }
 
-/* 🖥 Display Screen */
+/*  Display Screen */
 #display {
     width: 90%;
     height: 50px;
@@ -32,14 +32,14 @@ body {
     box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* 🎛 Buttons Grid */
+/*  Buttons Grid */
 .buttons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
 }
 
-/* 🔘 Regular Buttons */
+/*  Regular Buttons */
 button {
     width: 100%;
     height: 50px;
@@ -53,12 +53,12 @@ button {
     transition: 0.2s;
 }
 
-/* ✨ Button Hover Effects */
+/*  Button Hover Effects */
 button:hover {
     background: #ddd;
 }
 
-/* 🎭 Special Buttons (Operators) */
+/*  Special Buttons (Operators) */
 .operator {
     background: #ff9a8b;
     color: white;
@@ -68,7 +68,7 @@ button:hover {
     background: #e76f51;
 }
 
-/* 🟠 Equals Button */
+/* Equals Button */
 .equal {
     background: #ff7eb3;
     color: white;
@@ -79,7 +79,7 @@ button:hover {
     background: #ff5470;
 }
 
-/* 0️⃣ Zero Button (Spanning 2 columns) */
+/* Zero Button (Spanning 2 columns) */
 .zero {
     grid-column: span 2;
 }
