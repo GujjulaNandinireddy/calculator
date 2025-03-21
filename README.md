@@ -19,6 +19,10 @@ script.js → Interactive functionality
 3. Press "=" to see the result.
 4. Use "C" to clear the display and "⌫" to delete the last digit.
 
+https://github.com/user-attachments/assets/984cd233-1731-460f-9c41-7a36af42ee96
+
+
+
 ✨ Usage Guide
 Click number buttons to enter values.
 Use operators (+, -, ×, ÷, %) to perform calculations.
